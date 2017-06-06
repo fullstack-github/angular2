@@ -1,0 +1,137 @@
+[
+      {
+            "id": 1,
+            "firstName": "niraj",
+            "lastName": "Radadiya",
+            "gender": "male",
+            "address": "1234 Anywhere St.",
+            "city": " Ahmedabad ",
+            "state": {
+                "abbreviation": "gujarat",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "Cricket Bat", "itemCost": 557.00},
+                {"productName": "Stump", "itemCost": 199.99}
+            ]
+      },
+      {
+            "id": 2,
+            "firstName": "komal",
+            "lastName": "Prajapati",
+            "gender": "female",
+            "address": "1234 Anywhere St.",
+            "city": "Patan ",
+            "state": {
+                "abbreviation": "CA",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "tennis ball", "itemCost": 2.99},
+                {"productName": "Hat", "itemCost": 5.99}
+            ]
+           
+      },
+      {
+            "id": 3,
+            "firstName": "mitesh",
+            "lastName": "patel",
+            "gender": "male",
+            "address": "1234 Anywhere St.",
+            "city": "surat ",
+            "state": {
+                "abbreviation": "Gujarat",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "Cricket Bat", "itemCost": 29.99},
+                {"productName": "Stump", "itemCost": 19.99},
+                {"productName": "Cricket ball", "itemCost": 179.99}
+            ]
+      },
+      {
+            "id": 4,
+            "firstName": "Vimal",
+            "lastName": "patel",
+            "gender": "male",
+            "address": "1234 Anywhere St.",
+            "city": "surat ",
+            "state": {
+                "abbreviation": "Gujarat",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "Cricket Bat", "itemCost": 29.99},
+                {"productName": "Stump", "itemCost": 19.99},
+                {"productName": "Cricket ball", "itemCost": 179.99}
+            ]
+      },
+      {
+            "id": 5,
+            "firstName": "hitesh",
+            "lastName": "Radadiya",
+            "gender": "male",
+            "address": "1234 Anywhere St.",
+            "city": " Ahmedabad ",
+            "state": {
+                "abbreviation": "gujarat",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "Cricket Bat", "itemCost": 557.00},
+                {"productName": "Stump", "itemCost": 199.99}
+            ]
+      },
+      {
+            "id": 6,
+            "firstName": "Rupali",
+            "lastName": "Prajapati",
+            "gender": "female",
+            "address": "1234 Anywhere St.",
+            "city": "Patan ",
+            "state": {
+                "abbreviation": "CA",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "tennis ball", "itemCost": 2.99},
+                {"productName": "Hat", "itemCost": 5.99}
+            ]
+           
+      },
+      {
+            "id": 7,
+            "firstName": "Dax",
+            "lastName": "patel",
+            "gender": "male",
+            "address": "1234 Anywhere St.",
+            "city": "surat ",
+            "state": {
+                "abbreviation": "Gujarat",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "Cricket Bat", "itemCost": 29.99},
+                {"productName": "Stump", "itemCost": 19.99},
+                {"productName": "Cricket ball", "itemCost": 179.99}
+            ]
+      },
+      {
+            "id": 8,
+            "firstName": "Rudra",
+            "lastName": "patel",
+            "gender": "male",
+            "address": "1234 Anywhere St.",
+            "city": "surat ",
+            "state": {
+                "abbreviation": "Gujarat",
+                "name": "india"
+            },
+            "orders": [
+                {"productName": "Cricket Bat", "itemCost": 29.99},
+                {"productName": "Stump", "itemCost": 19.99},
+                {"productName": "Cricket ball", "itemCost": 179.99}
+            ]
+      }
+      
+]

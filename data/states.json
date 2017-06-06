@@ -1,0 +1,164 @@
+[
+  {
+    "_id": "56f861a8a38a3d28e63b6c6b",
+    "id": 1,
+    "name": "Andhra Pradesh",
+    "abbreviation": "AL"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c6d",
+    "id": 3,
+    "name": "Arunachal Pradesh",
+    "abbreviation": "AK"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c6f",
+    "id": 5,
+    "name": "Assam",
+    "abbreviation": "AZ"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c71",
+    "id": 7,
+    "name": "Bihar",
+    "abbreviation": "bi"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c73",
+    "id": 9,
+    "name": "Chhattisgarh",
+    "abbreviation": "CA"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c75",
+    "id": 11,
+    "name": "Goa",
+    "abbreviation": "GO"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c77",
+    "id": 13,
+    "name": "Gujarat",
+    "abbreviation": "Gu"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c79",
+    "id": 15,
+    "name": "Haryana",
+    "abbreviation": "Ha"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c7b",
+    "id": 17,
+    "name": "Himachal Pradesh",
+    "abbreviation": "hi"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c7d",
+    "id": 19,
+    "name": "Jammu and Kashmir",
+    "abbreviation": "Jk"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c7f",
+    "id": 21,
+    "name": "Jharkhand",
+    "abbreviation": "Jh"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c81",
+    "id": 23,
+    "name": "Karnataka",
+    "abbreviation": "Ka"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c83",
+    "id": 25,
+    "name": "Kerala",
+    "abbreviation": "Ke"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c85",
+    "id": 27,
+    "name": "Madhya Pradesh",
+    "abbreviation": "Mp"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c87",
+    "id": 29,
+    "name": "Maharashtra",
+    "abbreviation": "Ma"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c89",
+    "id": 31,
+    "name": "Manipur",
+    "abbreviation": "Ma"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c8b",
+    "id": 33,
+    "name": "Meghalaya",
+    "abbreviation": "Me"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c8d",
+    "id": 35,
+    "name": "Nagaland",
+    "abbreviation": "NA"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c8f",
+    "id": 37,
+    "name": "Odisha(Orissa)",
+    "abbreviation": "ME"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c91",
+    "id": 39,
+    "name": "Punjab",
+    "abbreviation": "MD"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c93",
+    "id": 41,
+    "name": "Rajasthan",
+    "abbreviation": "MA"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c95",
+    "id": 43,
+    "name": "Sikkim",
+    "abbreviation": "MI"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c97",
+    "id": 45,
+    "name": "Tamil Nadu",
+    "abbreviation": "MN"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c99",
+    "id": 47,
+    "name": "Tripura",
+    "abbreviation": "MS"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c9b",
+    "id": 49,
+    "name": "Uttar Pradesh",
+    "abbreviation": "MO"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c6c",
+    "id": 2,
+    "name": "Uttarakhand",
+    "abbreviation": "MT"
+  },
+  {
+    "_id": "56f861a8a38a3d28e63b6c6e",
+    "id": 4,
+    "name": "West Bengal",
+    "abbreviation": "NE"
+  }
+]
