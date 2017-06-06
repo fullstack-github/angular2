@@ -1,8 +1,4 @@
-# Angular JumpStart with TypeScript
-
-The goal of this jumpstart app is to provide
-a simple way to get started with Angular 2+ while also showing several key Angular features. The sample
-relies on System.js to load TypeScript modules and the required scripts used in the application.
+# Angular2 App
 
 ## Angular Concepts Covered
 
@@ -50,11 +46,6 @@ screenshots from the app:
 <img width="500" src="src/images/screenshots/details.png" border="0" />
 
 ## Running the Application using WebPack (and optionally AOT)
-
-The Angular JumpStart application uses System.JS by default for module loading mainly to keep the app
-as simple as possible and focused on Angular concepts rather than on a ton of configuration. However, Webpack 
-can also be used to handle working with modules plus perform tasks such as bundling, minification, conversion
-of TypeScript to JavaScript, start up a dev web server and much more. 
 
 If you'd like to use WebPack instead of SystemJS you'll need to modify a few things in the application. Here's a
 list of the required steps to get the application going using Webpack:
