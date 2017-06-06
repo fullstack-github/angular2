@@ -1,20 +1,11 @@
 # Angular2 App
 
-## Angular Concepts Covered
-
 * TypeScript version that relies on classes and modules
 * Modules are loaded with System.js
 * Defining routes including child routes and lazy loaded routes
 * Using Custom Components including custom input and output properties
 * Using Custom Directives
 * Using Custom Pipes
-* Defining Properties and Using Events in Components/Directives
-* Using the Http object for Ajax calls along with RxJS observables
-* Working with Utility and Service classes (such as for sorting and Ajax calls)
-* Using Angular databinding Syntax [], () and [()]
-* Using template-driven and reactive forms functionality for capturing and validating data
-* Optional: Webpack functionality is available for module loading and more (see below for details)
-* Optional: Ahead-of-Time (AOT) functionality is available for a production build of the project (see below for details)
 
 ## Running the Application
 
@@ -25,8 +16,6 @@
 1. Run `npm start` in a separate terminal window to build the TypeScript, watch for changes and launch the web server
 
 1. Go to http://localhost:3000 in your browser
-
-Looking for expert onsite Angular/TypeScript training? We've trained the biggest (and smallest :-)) companies around the world for over 15 years. For more information visit http://codewithdan.com. 
 
 Simply clone the project or download and extract the .zip to get started. Here are a few
 screenshots from the app:
@@ -45,23 +34,7 @@ screenshots from the app:
 
 <img width="500" src="src/images/screenshots/details.png" border="0" />
 
-## Running the Application using WebPack (and optionally AOT)
 
-If you'd like to use WebPack instead of SystemJS you'll need to modify a few things in the application. Here's a
-list of the required steps to get the application going using Webpack:
-
-1. Do a global search and replace in the project to comment out all references to `moduleId` in each component since it isn't used by Webpack:		
-    *Find:*             `moduleId: module.id,`		
-	
-    *Replace with:*     `//moduleId: module.id,`		
-	
-If you plan on only using Webpack and not going back to SystemJS you can completely remove `moduleId: module.id,` if you'd like.
-
-1. Open `src/app/app-routing.module.ts` and change `app/` to `./` for all `loadChildren` paths. For example:
-
-    *Change:*     loadChildren: 'app/customers/customers.module#CustomersModule'
-
-    *To:*         loadChildren: './customers/customers.module#CustomersModule'
 
 1. Run `npm install` to install app dependencies
 
